@@ -5,7 +5,7 @@ An Android TicTacToe app
 
 ![gameStart](https://github.com/JohnnyBee86/CPW253-TicTacToe/assets/130700641/4fca086b-e6df-4370-9079-b98d6cc52ff8)
 
-## Game play alternates between turns for X and O
+## Game play alternates between turns for X and O, with a button locking once it is selected during the game
 
 ![gamePlay](https://github.com/JohnnyBee86/CPW253-TicTacToe/assets/130700641/79475e73-ea5b-468b-98a7-79abecc04ea2)
 
